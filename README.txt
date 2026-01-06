@@ -1,4 +1,4 @@
-Basic Calculator Project – Instructions
+Basic Music Player Project – Instructions
 
 1. Download to your computer.
 
